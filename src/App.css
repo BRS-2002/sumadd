@@ -1,0 +1,50 @@
+#main_container
+{
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:50px;
+    border-radius:1000px;
+    background-color: greenyellow;
+}
+#display
+{
+  width:50px;
+  margin-border:5px;
+  border-radius: 20px;
+  background-color: beige;
+}
+h1
+{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button
+{
+    top:padding 20px;
+    width: 50px;
+    height:50px;
+   font-size: 16px; 
+   display : inline-block;
+   border-radius:14px;
+
+}
+#button1
+{
+    background-color: brown;
+}
+#button2
+{
+    background-color: green;
+}
+p
+{
+    font-size: 50px;
+    font-style: oblique;
+    font-display:unset;
+    height:50vh;
+}
